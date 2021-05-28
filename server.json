@@ -1,0 +1,341 @@
+{
+  "continentes": [
+    {
+      "id": "1",
+      "nome": "América do Norte",
+      "texto": "O continente das grandes empresas",
+      "imagem": "/america_norte.png",
+      "info": {
+        "banner": "/banner/america_norte.png",
+        "conteudo": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América.",
+        "paises": 3,
+        "linguas": 2,
+        "cidades": 275,
+        "curiosidade": "A América do Norte é um subcontinente do continente americano, também formado pela América Central e América do Sul."
+      },
+      "cidades": [
+        {
+          "nome": "Nova Iorque",
+          "foto": "/cards/cidade/america_norte/nova_york.png",
+          "pais": {
+            "nome": "Estados Unidos",
+            "bandeira": "/cards/bandeira/america_norte/eua.png"
+          }
+        },
+         {
+           "nome": "Vancouver",
+           "foto": "/cards/cidade/america_norte/vancouver.png",
+           "pais": {
+             "nome": "Canadá",
+             "bandeira": "/cards/bandeira/america_norte/canada.png"
+           }
+         },
+         {
+           "nome": "Cidade do México",
+           "foto": "/cards/cidade/america_norte/cidade_mexico.png",
+           "pais": {
+             "nome": "México",
+             "bandeira": "/cards/bandeira/america_norte/mexico.png"
+           }
+         },
+         {
+           "nome": "Orlando",
+           "foto": "/cards/cidade/america_norte/orlando.png",
+           "pais": {
+             "nome": "Estados Unidos",
+             "bandeira": "/cards/bandeira/america_norte/eua.png"
+           }
+         },
+         {
+           "nome": "Ottawa",
+           "foto": "/cards/cidade/america_norte/ottawa.png",
+           "pais": {
+             "nome": "Canadá",
+             "bandeira": "/cards/bandeira/america_norte/canada.png"
+           }
+         }
+      ]
+    },
+    {
+      "id": "2",
+      "nome": "América do Sul",
+      "texto": "O continente do verde",
+      "imagem": "/america_sul.png",
+      "info": {
+        "banner": "/banner/america_sul.png",
+        "conteudo": "A América do Sul é um continente que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano. A sua extensão é de 17 819 100 km², abrangendo 12% da superfície terrestre e 6% da população mundial.",
+        "paises": 13,
+        "linguas": 10,
+        "cidades": 1430,
+        "curiosidade": "Com extensão de 17 819 100 km2, possui pouco menos de 12% da superfície terrestre e 6% da população mundial."
+      },
+      "cidades": [
+        {
+          "nome": "Rio de Janeiro",
+          "foto": "/cards/cidade/america_sul/rio_janeiro.png",
+          "pais": {
+            "nome": "Brasil",
+            "bandeira": "/cards/bandeira/america_sul/brasil.png"
+          }
+        },
+        {
+          "nome": "Buenos Aires",
+          "foto": "/cards/cidade/america_sul/buenos_aires.png",
+          "pais": {
+            "nome": "Argentina",
+            "bandeira": "/cards/bandeira/america_sul/argentina.png"
+          }
+        },
+        {
+          "nome": "Montevidéu",
+          "foto": "/cards/cidade/america_sul/montevideu.png",
+          "pais": {
+            "nome": "Uruguai",
+            "bandeira": "/cards/bandeira/america_sul/uruguai.png"
+          }
+        },
+        {
+          "nome": "São Paulo",
+          "foto": "/cards/cidade/america_sul/sp.png",
+          "pais": {
+            "nome": "Brasil",
+            "bandeira": "/cards/bandeira/america_sul/brasil.png"
+          }
+        },
+        {
+          "nome": "Santiago",
+          "foto": "/cards/cidade/america_sul/santiago.png",
+          "pais": {
+            "nome": "Chile",
+            "bandeira": "/cards/bandeira/america_sul/chile.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "nome": "Ásia",
+      "texto": "O continente mais populoso",
+      "imagem": "/asia.png",
+      "info": {
+        "banner": "/banner/asia.png",
+        "conteudo": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering",
+        "paises": 50,
+        "linguas": 7,
+        "cidades": 2023,
+        "curiosidade": "4,5 bilhões de pessoas vivem na Ásia. China e Índia, os dois países com maior população do mundo estão lá, assim como o terceiro e o quarto, Indonésia e Paquistão."
+      },
+      "cidades": [
+        {
+          "nome": "Xangai",
+          "foto": "/cards/cidade/asia/xangai.png",
+          "pais": {
+            "nome": "China",
+            "bandeira": "/cards/bandeira/asia/china.png"
+          }
+        },
+        {
+          "nome": "Mumbai",
+          "foto": "/cards/cidade/asia/mumbai.png",
+          "pais": {
+            "nome": "Índia",
+            "bandeira": "/cards/bandeira/asia/india.png"
+          }
+        },
+        {
+          "nome": "Tóquio",
+          "foto": "/cards/cidade/asia/toquio.png",
+          "pais": {
+            "nome": "Japão",
+            "bandeira": "/cards/bandeira/asia/japao.png"
+          }
+        },
+        {
+          "nome": "Istambul",
+          "foto": "/cards/cidade/asia/istambul.png",
+          "pais": {
+            "nome": "Turquia",
+            "bandeira": "/cards/bandeira/asia/turquia.png"
+          }
+        },
+        {
+          "nome": "Karachi",
+          "foto": "/cards/cidade/asia/karachi.png",
+          "pais": {
+            "nome": "Paquistão",
+            "bandeira": "/cards/bandeira/asia/paquistao.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "nome": "África",
+      "texto": "O continente mais selvagem",
+      "imagem": "/africa.png",
+      "info": {
+        "banner": "/banner/africa.png",
+        "conteudo": "A África é o terceiro continente mais extenso com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra com cerca de um bilhão de pessoas, representando cerca de um sétimo da população mundial, e 54 países independentes.",
+        "paises": 54,
+        "linguas": 1250,
+        "cidades": 875,
+        "curiosidade": "O continente africano é formado por 54 países, distribuídos em cinco regiões (África Setentrional, África Meridional, África Central, África Ocidental e África Oriental)."
+      },
+      "cidades": [
+        {
+          "nome": "Lagos",
+          "foto": "/cards/cidade/africa/lagos.png",
+          "pais": {
+            "nome": "Nigéria",
+            "bandeira": "/cards/bandeira/africa/nigeria.png"
+          }
+        },
+        {
+          "nome": "Muxima",
+          "foto": "/cards/cidade/africa/muxima.png",
+          "pais": {
+            "nome": "Angola",
+            "bandeira": "/cards/bandeira/africa/angola.png"
+          }
+        },
+        {
+          "nome": "Cidade do Cabo",
+          "foto": "/cards/cidade/africa/cidade_cabo.png",
+          "pais": {
+            "nome": "África do Sul",
+            "bandeira": "/cards/bandeira/africa/africa-do-sul.png"
+          }
+        },
+        {
+          "nome": "Cairo",
+          "foto": "/cards/cidade/africa/cairo.png",
+          "pais": {
+            "nome": "Egito",
+            "bandeira": "/cards/bandeira/africa/egito.png"
+          }
+        },
+        {
+          "nome": "Nairóbi",
+          "foto": "/cards/cidade/africa/nairobi.png",
+          "pais": {
+            "nome": "Quênia",
+            "bandeira": "/cards/bandeira/africa/quenia.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "nome": "Europa",
+      "texto": "O continente mais antigo",
+      "imagem": "/europa.png",
+      "info": {
+        "banner": "/banner/europa.png",
+        "conteudo": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+        "paises": 60,
+        "linguas": 50,
+        "cidades": 890,
+        "curiosidade": "A Europa possui uma população de mais de 738 milhões de habitantes, distribuídos em seus 50 países e falando mais de 60 línguas, entre idiomas oficiais e dialetos."
+      },
+      "cidades": [
+        {
+          "nome": "Londres",
+          "foto": "/cards/cidade/europa/londres.png",
+          "pais": {
+            "nome": "Reino Unido",
+            "bandeira": "/cards/bandeira/europa/reino_unido.png"
+          }
+        },
+        {
+          "nome": "Paris",
+          "foto": "/cards/cidade/europa/paris.png",
+          "pais": {
+            "nome": "França",
+            "bandeira": "/cards/bandeira/europa/franca.png"
+          }
+        },
+        {
+          "nome": "Roma",
+          "foto": "/cards/cidade/europa/roma.png",
+          "pais": {
+            "nome": "Itália",
+            "bandeira": "/cards/bandeira/europa/italia.png"
+          }
+        },
+        {
+          "nome": "Praga",
+          "foto": "/cards/cidade/europa/praga.png",
+          "pais": {
+            "nome": "República Tcheca",
+            "bandeira": "/cards/bandeira/europa/republica_tcheca.png"
+          }
+        },
+        {
+          "nome": "Amsterdã",
+          "foto": "/cards/cidade/europa/amsterda.png",
+          "pais": {
+            "nome": "Holanda",
+            "bandeira": "/cards/bandeira/europa/holanda.png"
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "6",
+      "nome": "Oceania",
+      "texto": "O continente das ilhas",
+      "imagem": "/oceania.png",
+      "info": {
+        "banner": "/banner/oceania.png",
+        "conteudo": "A Oceania é o continente mais isolado do mundo, sua barreira geográfica fez com que fosse o último a ser descoberto pelos europeus. Em razão desse atraso em seu descobrimento ficou conhecido como 'mundo novo'.",
+        "paises": 16,
+        "linguas": 18,
+        "cidades": 612,
+        "curiosidade": "Oceania ou Oceânia é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico. O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville."
+      },
+      "cidades": [
+        {
+          "nome": "Sydney",
+          "foto": "/cards/cidade/oceania/sydney.png",
+          "pais": {
+            "nome": "Austrália",
+            "bandeira": "/cards/bandeira/oceania/australia.png"
+          }
+        },
+        {
+          "nome": "Manado",
+          "foto": "/cards/cidade/oceania/manado.png",
+          "pais": {
+            "nome": "Indonésia",
+            "bandeira": "/cards/bandeira/oceania/indonesia.png"
+          }
+        },
+        {
+          "nome": "Melbourne",
+          "foto": "/cards/cidade/oceania/melbourne.png",
+          "pais": {
+            "nome": "Austrália",
+            "bandeira": "/cards/bandeira/oceania/australia.png"
+          }
+        },
+        {
+          "nome": "Brisbane",
+          "foto": "/cards/cidade/oceania/brisbane.png",
+          "pais": {
+            "nome": "Austrália",
+            "bandeira": "/cards/bandeira/oceania/australia.png"
+          }
+        },
+        {
+          "nome": "Kupang",
+          "foto": "/cards/cidade/oceania/kupang.png",
+          "pais": {
+            "nome": "Indonésia",
+            "bandeira": "/cards/bandeira/oceania/indonesia.png"
+          }
+        }
+      ]
+    }
+  ]
+}
